@@ -1,3 +1,4 @@
 Este archivo contiene los datos iniciales de la práctica de git.
 El objetivo es practicar la creación y sincronización de un repositorio local con Github.
 Este archivo fue modificado desde Github.
+Este archivo fue modificado desde el repositorio local.
