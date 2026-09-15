@@ -5,7 +5,7 @@
 ## 2630022
 
 **Objetivo:**
-Crearnun repositorio local utilizando Git, conectarlo con un repositorio remoto en Github y practicar la sincronización de cambios en ambas direcciones: de local a Github y de Github a local.
+Crear un repositorio local utilizando Git, conectarlo con un repositorio remoto en Github y practicar la sincronización de cambios en ambas direcciones: de local a Github y de Github a local.
 
 ## descripción del procedimiento
 
